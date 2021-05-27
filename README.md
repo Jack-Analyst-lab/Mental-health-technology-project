@@ -7,7 +7,8 @@ This project seeks to understand how the productivity of the employees is affect
 The data used for this analysis was obtained from kaggle https://www.kaggle.com/osmihelp/osmi-2020-mental-health-in-tech-survey-results from an online survey done by Open Sourcing Mental Illness (OSMI) IN 2020.
 ## Setup/Installation Requirements: 
 git clone the files or download a zip file of the project. Any changes can be made in a text editor. 
-## Known Bugs No known bugs at the moment.
+## Known Bugs 
+No known bugs at the moment.
 ## Technologies Used
 python
 
